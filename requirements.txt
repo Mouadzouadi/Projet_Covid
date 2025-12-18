@@ -1,0 +1,8 @@
+pandas
+numpy
+folium
+matplotlib
+scikit-learn
+plotly
+requests
+ipykernel
